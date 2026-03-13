@@ -54,9 +54,6 @@ Karena aplikasi ini tidak mengumpulkan atau menyimpan data pribadi Anda di serve
 
 ## Layanan Pihak Ketiga
 
-Aplikasi ini mengakses konten dari:
-- **games.myshortlink.org** - Website penyedia game
-
 Kami tidak bertanggung jawab atas praktik privasi website pihak ketiga. Kami menyarankan Anda untuk membaca kebijakan privasi mereka.
 
 ## Privasi Anak-Anak
