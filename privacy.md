@@ -73,13 +73,6 @@ Anda memiliki hak untuk:
 - Menghapus cache dan cookie melalui pengaturan aplikasi Android
 - Berhenti menggunakan aplikasi kapan saja
 
-## Hubungi Kami
-
-Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di:
-
-**Email:** [your-email@example.com]  
-**GitHub:** [https://github.com/yourusername/moontetris]
-
 ---
 
 ## Privacy Policy (English Version)
@@ -138,9 +131,6 @@ Since this application does not collect or store your personal data on our serve
 
 ## Third-Party Services
 
-This application accesses content from:
-- **games.myshortlink.org** - Game provider website
-
 We are not responsible for the privacy practices of third-party websites. We recommend you read their privacy policies.
 
 ## Children's Privacy
@@ -160,9 +150,3 @@ You have the right to:
 - Clear cache and cookies through Android application settings
 - Stop using the application at any time
 
-## Contact Us
-
-If you have any questions about this Privacy Policy, please contact us at:
-
-**Email:** [your-email@example.com]  
-**GitHub:** [https://github.com/yourusername/moontetris]
